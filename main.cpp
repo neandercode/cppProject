@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int myNum=15;
-    cout << myNum;
+    string cars[4] = {"Ford", "Chevrolet", "Dodge", "Jeep"};
+    cout << cars[0];
     return 0;
 }
