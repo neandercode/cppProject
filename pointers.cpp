@@ -2,9 +2,10 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main()
+{
     string anime = "One Piece";
-    string* ptr = &anime;
+    string *ptr = &anime;
 
     cout << anime << "\n";
 
