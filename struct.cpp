@@ -12,7 +12,7 @@ int main()
     } myCar1, myCar2;
 
     myCar1.brand = "Ford";
-    myCar1.model = "Fuision";
+    myCar1.model = "Fusion";
     myCar1.year = 2019;
 
     myCar2.brand = "Ford";
